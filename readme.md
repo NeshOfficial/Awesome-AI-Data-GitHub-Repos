@@ -1,134 +1,84 @@
-# Awesome AI & Data GitHub-Repos [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-A curated list of the most essential GitHub repos that cover the AI & ML landscape. If you like to add or update projects, feel free to open an issue or submit a pull request. Contributions are very welcome!
+<p align="center"> 
+<a href="https://github.com/milaan9"><img src="https://img.shields.io/static/v1?logo=github&label=maintainer&message=milaan9&color=ff3300" alt="Last Commit"/></a> 
+<!--<img src="https://badges.pufler.dev/created/milaan9/92_Python_Games" alt="Created"/>-->
+<!--<a href="https://github.com/milaan9/92_Python_Games/graphs/commit-activity"><img src="https://img.shields.io/github/last-commit/milaan9/92_Python_Games.svg?colorB=ff8000&style=flat" alt="Last Commit"/> </a>-->
+<a href="https://github.com/milaan9/92_Python_Games/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/milaan9/92_Python_Games.svg?colorB=teal&style=flat" /></a> 
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmilaan9%2F92_Python_Games&count_bg=%231DC92C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/></a>
+<a href="https://github.com/milaan9/92_Python_Games/stargazers"><img src="https://img.shields.io/github/stars/milaan9/92_Python_Games.svg?colorB=1a53ff" alt="Stars Badge"/></a>
+<a href="https://github.com/milaan9/92_Python_Games/network/members"><img src="https://img.shields.io/github/forks/milaan9/92_Python_Games" alt="Forks Badge"/> </a>
+<img src="https://img.shields.io/github/repo-size/milaan9/92_Python_Games.svg?colorB=CC66FF&style=flat" alt="Size"/>
+<a href="https://github.com/milaan9/92_Python_Games/pulls"><img src="https://img.shields.io/github/issues-pr/milaan9/92_Python_Games.svg?colorB=yellow&style=flat" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/milaan9/92_Python_Games/issues"><img src="https://img.shields.io/github/issues/milaan9/92_Python_Games.svg?colorB=yellow&style=flat" alt="Issues Badge"/></a>
+<img src="https://img.shields.io/github/languages/top/milaan9/92_Python_Games.svg?colorB=996600&style=flat" alt="Language"/></a>
+<a href="https://github.com/milaan9/92_Python_Games/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blueviolet.svg" alt="MIT License"/></a>
+</p> 
+<!--<img src="https://badges.pufler.dev/contributors/milaan9/01_Python_Introduction?size=50&padding=5&bots=true" alt="milaan9"/>-->
+
+<p align="center"> 
+<a href="https://mybinder.org/v2/gh/milaan9/92_Python_Games/HEAD"><img src="https://mybinder.org/badge_logo.svg" alt="binder"/></a>
+<a href="https://githubtocolab.com/milaan9/92_Python_Games"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"/></a> 
+</p>    
+
+# 92_Python_Games 🎮
+
+## Introduction 👋
+
+This repository contains Python games that I've worked on. You'll learn how to create python games with AI. I try to focus on creating board games without GUI in Jupyter-notebook.
+
+---
+
+## Table of contents 📋
+
+| **No.** | **Name** | 
+| ------- | -------- | 
+| 01 | **[Bulls and Cows with AI](https://github.com/milaan9/92_Python_Games/tree/main/001_Bulls_and_Cows_with_AI)** |
+| 02 | **[Tic-Tac-Toe with AI](https://github.com/milaan9/92_Python_Games/tree/main/002_Tic_Tac_Toe_with_AI)** |
 
 
-[![GitHub license](https://img.shields.io/github/license/youssefHosni/Awesome-ML-GitHub-Repos.svg)](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/master/LICENSE)
-[![GitHub contributors](https://img.shields.io/github/contributors/youssefHosni/Awesome-ML-GitHub-Repos.svg)](https://GitHub.com/youssefHosni/Awesome-ML-GitHub-Repos/graphs/contributors/)
-[![GitHub issues](https://img.shields.io/github/issues/youssefHosni/Awesome-ML-GitHub-Repos.svg)](https://GitHub.com/youssefHosni/Awesome-ML-GitHub-Repos/issues/)
-[![GitHub pull-requests](https://img.shields.io/github/issues-pr/youssefHosni/Awesome-ML-GitHub-Repos.svg)](https://GitHub.com/youssefHosni/Awesome-ML-GitHub-Repos/pulls/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+These are online **read-only** versions. However you can **`Run ▶`**  all the codes **online** by clicking here ➞ <a href="https://mybinder.org/v2/gh/milaan9/92_Python_Games/HEAD"><img src="https://mybinder.org/badge_logo.svg" alt="binder"/></a>
 
-[![GitHub watchers](https://img.shields.io/github/watchers/youssefHosni/Awesome-ML-GitHub-Repos.svg?style=social&label=Watch)](https://GitHub.com/youssefHosni/Awesome-ML-GitHub-Repos/watchers/)
-[![GitHub forks](https://img.shields.io/github/forks/youssefHosni/Awesome-ML-GitHub-Repos.svg?style=social&label=Fork)](https://GitHub.com/youssefHosni/Awesome-ML-GitHub-Repos/network/)
-[![GitHub stars](https://img.shields.io/github/stars/youssefHosni/Awesome-ML-GitHub-Repos.svg?style=social&label=Star)](https://GitHub.com/youssefHosni/Awesome-ML-GitHub-Repos/stargazers/)
+---
 
-![alt text](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/images/Awosme%20ML%20GitHub%20Repos.png)
+## Frequently asked questions ❔
 
-## Table of Contents:
-* [Natural Language Processing (NLP)](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/readme.md#:~:text=Data%20Engineering-,Natural%20Language%20Processing,-nlp%2Dtutorial%3A%20nlp)
-* [Large Language Models(LLM)](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/readme.md#:~:text=lines%20of%20code.-,Large%20Language%20Models,-Open%20LLMs%3A%20List)
-* [Computer Vision](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/readme.md#:~:text=LLMs%20through%20composability-,Computer%20Vision,-Computer%20Vision%20Tutorials)
-* [Data Science](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/readme.md#:~:text=based%20CV%20works-,Data%20Science,-Data%20Science%20for)
-* [Machine Learning](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/readme.md#:~:text=Interview%20Questions%20Answers-,Machine%20Learning,-Best%2Dof%20Machine) 
-* [Machine Learning Engineerings Operations (MLOps)](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/readme.md#:~:text=Machine%20Learning%20Interviews-,Machine%20Learning%20Engineerings%20Operations%20(MLOps),-MLOps%2DBasics)
-* [Data Engineering](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/readme.md#:~:text=MLOps%20Course-,Data%20Engineering,-Data%20Engineering%20Zoomcamp)
-* [SQL & Database]()
+### How can I thank you for writing and sharing this tutorial? 🌷
 
-## Natural Language Processing ##
-![alt text](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/images/NLP.jpg)
+You can <img src="https://img.shields.io/static/v1?label=%E2%AD%90 Star &message=if%20useful&style=style=flat&color=blue" alt="Star Badge"/> and <img src="https://img.shields.io/static/v1?label=%E2%B5%96 Fork &message=if%20useful&style=style=flat&color=blue" alt="Fork Badge"/> Starring and Forking is free for you, but it tells me and other people that it was helpful and you like this tutorial.
 
-* [nlp-tutorial](https://github.com/graykode/nlp-tutorial): nlp-tutorial is a tutorial for who is studying NLP(Natural Language Processing) using Pytorch. Most NLP models were implemented with less than 100 lines of code.
+Go [**`here`**](https://github.com/milaan9/92_Python_Games) if you aren't here already and click ➞ **`✰ Star`** and **`ⵖ Fork`** button in the top right corner. You will be asked to create a GitHub account if you don't already have one.
 
-## Large Language Models ##
-![alt text](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/images/LLM.png)
-* [LLMs Practical Guide: The Practical Guides for Large Language Models](https://github.com/Mooler0410/LLMsPracticalGuide)
-* [LLM Survey: A collection of papers and resources related to Large Language Models](https://github.com/RUCAIBox/LLMSurvey)
-* [Open LLMs: List of LLMs that are all licensed for commercial](https://github.com/eugeneyan/open-llms)
-* [Awesome LLM: Curated list of papers about large language models, especially relating to ChatGPT](https://github.com/Hannibal046/Awesome-LLM)
-* [Awesome Decentralized LLM: Collection of LLM resources that can be used to build products you can "own" or to perform reproducible research](https://github.com/imaurer/awesome-decentralized-llm)
-* [LangChain: Building applications with LLMs through composability](https://github.com/hwchase17/langchain)
-* [Awesome LangChain: Curated list of tools and projects using LangChain](https://github.com/kyrolabs/awesome-langchain)
-* [Awesome Graph LLM: A collection of AWESOME things about Graph-Related Large Language Models (LLMs).](https://github.com/XiaoxinHe/Awesome-Graph-LLM)
-* [OpenLLM: An open platform for operating large language models (LLMs) in production](https://github.com/bentoml/OpenLLM)
-* [LLM Zoo: democratizing ChatGPT](https://github.com/FreedomIntelligence/LLMZoo)
-* [VectorDB-recipes](https://github.com/lancedb/vectordb-recipes)
-* [Awesome GPT Prompt Engineering: A curated list of awesome resources, tools, and other shiny things for GPT prompt engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering)
-* [Prompt Engineering Guide: ](https://github.com/dair-ai/Prompt-Engineering-Guide)
-* [LLM Course](https://github.com/mlabonne/llm-course)
-## Computer Vision ## 
-![alt text](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/images/Computer%20Vision.png)
-* [Awesome Computer Vision: A curated list of awesome computer vision resources](https://github.com/jbhuang0604/awesome-computer-vision)
-* [Computer Vision Tutorials by Roboflow](https://github.com/roboflow/notebooks)
-* [Transformer in Vision: paper list of some recent Transformer-based CV works](https://github.com/Yangzhangcst/Transformer-in-Computer-Vision)
-* [Awesome-Referring-Image-Segmentation: A collection of referring image segmentation papers and datasets](https://github.com/MarkMoHR/Awesome-Referring-Image-Segmentation)
-* [awesome-vision-language-pretraining-papers: Recent Advances in Vision and Language PreTrained Models (VL-PTMs)](https://github.com/yuewang-cuhk/awesome-vision-language-pretraining-papers)
-* [Awesome Vision-and-Language: A curated list of awesome vision and language resources,](https://github.com/sangminwoo/awesome-vision-and-language)
-* [Awesome-Temporal-Action-Detection-Temporal-Action-Proposal-Generation](https://github.com/zhenyingfang/Awesome-Temporal-Action-Detection-Temporal-Action-Proposal-Generation)
-* [Awesome-Referring-Image-Segmentation: A collection of referring image segmentation papers and datasets.](https://github.com/MarkMoHR/Awesome-Referring-Image-Segmentation)
-* [Awesome Masked Autoencoders: A collection of literature after or concurrent with Masked Autoencoder (MAE) ](https://github.com/EdisonLeeeee/Awesome-Masked-Autoencoders)
-* [Awesome Visual-Transformer: Collection of some Transformer with Computer-Vision (CV) papers](https://github.com/dk-liang/Awesome-Visual-Transformer)
-* [Transformer-Based Visual Segmentation: A Survey](https://github.com/lxtGH/Awesome-Segmentation-With-Transformer)
-* [Awesome-Segmentation-With-Transformer](https://github.com/lxtGH/Awesome-Segmentation-With-Transformer)
-* [CVPR 2o23 Paper with Code](https://github.com/amusi/CVPR2023-Papers-with-Code)
-* [Awesome Deepfakes Detection](https://github.com/Daisy-Zhang/Awesome-Deepfakes-Detection)
-* [Weekly-Top-Computer-Vision-Papers](https://github.com/youssefHosni/Weekly-Top-Computer-Vision-Papers)
+---
 
-## Data Science ##
-![alt text](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/images/Data%20Science.png)
+### How can I read this tutorial without an Internet connection? <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" />
 
-* [Data Science for Beginners - A Curriculum](https://github.com/microsoft/Data-Science-For-Beginners)
-* [Data Science Resources](https://github.com/jonathan-bower/DataScienceResources)
-* [freeCodeCamp.org's open-source codebase and curriculum](https://github.com/freeCodeCamp/freeCodeCamp)
-* [List of Data Science/Big Data Resources](https://github.com/chaconnewu/free-data-science-books)
-* [Open Source Society University: Path to a free self-taught Education in Data Science](https://github.com/ossu/data-science)
-* [AWESOME DATA SCIENCE: An open-source Data Science repository to learn and apply towards solving real-world problems.](https://github.com/academic/awesome-datascience)
-* [Data Science ALL CHEAT SHEET](https://github.com/yash42828/Data-Science--All-Cheat-Sheet)
-* [Data Science End-to-End Projects](https://github.com/veb-101/Data-Science-Projects)
-* [Data Analysis Projects](https://github.com/arjunmann73/Data-Analytics-Projects)
-* [Data Science Interview Resources](https://github.com/rbhatia46/Data-Science-Interview-Resources)
-* [Data-Science Interview Questions Answers](https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers)
-* [Data-science-best-resources](https://github.com/tirthajyoti/Data-science-best-resources)
-* [Amazing-Feature-Engineering](https://github.com/ashishpatel26/Amazing-Feature-Engineering)
-* [Complete-Life-Cycle-of-a-Data-Science-Project](https://github.com/achuthasubhash/Complete-Life-Cycle-of-a-Data-Science-Project)
-* [Data Science Cheatsheet](https://github.com/ml874/Data-Science-Cheatsheet)
-* [PandasAI](https://github.com/gventuri/pandas-ai)
+1. Go [**`here`**](https://github.com/milaan9/92_Python_Games) and click the big green ➞ **`Code`** button in the top right of the page, then click ➞ [**`Download ZIP`**](https://github.com/milaan9/92_Python_Games/archive/refs/heads/main.zip).
 
-## Machine Learning ##
-![alt text](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/images/Machine%20Learning.jpg)
+    ![Download ZIP](img/dnld_rep.png) 
 
-* [GitHub Community Discussions](https://github.com/community/community): In this repository, you will find categories for various product areas. Feel free to share feedback, discuss topics with other community members, or ask questions.
-* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning): A curated list of awesome machine learning frameworks, libraries and software (by language).
-* [Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials): This repository contains a topic-wise curated list of Machine Learning and Deep Learning tutorials, articles and other resources
-* [Best-of Machine Learning with Python](https://github.com/ml-tooling/best-of-ml-python): A ranked list of awesome machine learning Python libraries.
-* [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples): This tutorial was designed for easily diving into TensorFlow, through examples. For readability, it includes both notebooks and source codes with explanations, for both TF v1 & v2.
-* [Machine Learning Projects](https://github.com/lukas/ml-class)
-* [Randy Olson's data analysis and machine learning projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects)
-* [Minimum Viable Study Plan for Machine Learning Interviews](https://github.com/khangich/machine-learning-interview)
-* [Machine Learning Interview Questions: Machine Learning and Computer Vision Engineer](https://github.com/andrewekhalel/MLQuestions)
-* [Must Read Machine Learning & Deep Learning Papers](https://github.com/hurshd0/must-read-papers-for-ml)
-* [Free Machine Learning Books](https://github.com/shahumar/Free-Machine-Learning-Books)
+2. Extract the ZIP and open it. Unfortunately I don't have any more specific instructions because how exactly this is done depends on which operating system you run.
+    
+3. Launch ipython notebook from the folder which contains the notebooks. Open each one of them
+  
+    **`Kernel > Restart & Clear Output`**
+    
+This will clear all the outputs and now you can understand each statement and learn interactively.
 
-## Machine Learning Engineering Operations (MLOps) ##
-![alt text](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/images/MLOps.png)
-* [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)
-* [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
-* [MLOps Guide](https://mlops-guide.github.io/)
-* [Awesome MLOps](https://github.com/visenger/awesome-mlops)
-* [Awesome MLOps - Tools](https://github.com/kelvins/awesome-mlops)
-* [DTU MLOps](https://github.com/SkafteNicki/dtu_mlops)
-* [MLOps Course](https://github.com/GokuMohandas/mlops-course)
+If you have git and you know how to use it, you can also clone the repository instead of downloading a zip and extracting it. An advantage with doing it this way is that you don't need to download the whole tutorial again to get the latest version of it, all you need to do is to pull with git and run ipython notebook again.
 
-## Data Engineering ##
-![alt text](https://github.com/youssefHosni/Awesome-ML-GitHub-Repos/blob/main/images/Data%20Engineering.jpg)
+---
 
-* [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
-* [Data Engineering Cookbook](https://github.com/andkret/Cookbook)
-* [How To Become a Data Engineer](https://github.com/adilkhash/Data-Engineering-HowTo)
-* [Awesome Data Engineering](https://github.com/igorbarinov/awesome-data-engineering)
-* [Data Engineering Roadmap](https://github.com/datastacktv/data-engineer-roadmap)
-* [Data Engineering Projects](https://github.com/alanchn31/Data-Engineering-Projects)
-* [Data Engineering Interview Questions](https://github.com/OBenner/data-engineering-interview-questions)
+## Authors ✍️
 
+I'm Dr. Milaan Parmar and I have written this tutorial. If you think you can add/correct/edit and enhance this tutorial you are most welcome🙏
 
-## SQL & Database ##
+See [github's contributors page](https://github.com/milaan9/92_Python_Games/graphs/contributors) for details.
 
-* [SQL 101 by s-shemmee]()
-* [Learn SQL by WebDevSimplified]()
-* [SQL Masterclass by datawithdanny]()
-* [SQL Map by sqlmapproject]()
-* [SQL Server Samples by Microsoft]()
-* [SQL Music Store Analysis Project by rishabhnmishra]()
-* [Data Engineering Zoomcamp by DataTalksClub]()
-* [SQL Server Kit by ktaranov]()
-* [Awesome DB Tools by mgramin]()
-* [SQL for Wary Data Scientists by gvwilson]()
+If you have trouble with this tutorial please tell me about it by [Create an issue on GitHub](https://github.com/milaan9/92_Python_Games/issues/new). and I'll make this tutorial better. This is probably the best choice if you had trouble following the tutorial, and something in it should be explained better. You will be asked to create a GitHub account if you don't already have one.
+
+If you like this tutorial, please [give it a ⭐ star](https://github.com/milaan9/92_Python_Games).
+
+---
+
+## Licence 📜
+
+You may use this tutorial freely at your own risk. See [LICENSE](./LICENSE).
